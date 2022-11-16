@@ -1,2 +1,2 @@
 # hello-world2
-repository
+lechuga2
